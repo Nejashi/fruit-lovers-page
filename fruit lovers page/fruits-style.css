@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+img{
+    max-width: 100%;
+}
+
+*{
+    padding: 0%;
+    margin: 0%;
+}
+#header h1 {
+    padding-top: 0;
+    padding-bottom: 10px;
+    color: white;
+    
+}
+
+
+
+.morefruits {
+    padding-top: 155px;
+    padding-bottom: 275px;
+    color: blue ;
+    font-size: 76px;
+    text-align: center;
+    
+    background:url("../images/tree.png") round;
+    background-size: 50px;
+}
+.pineapple img{
+      width: 100%;
+}
+#header{
+    background-color: #33f5c5;
+    font-size: 40px;
+    text-align: center;  
+}
+#header{
+    background-color: #f533b4;
+    font-size: 40px;
+    text-align: center;  
+}
+#footer{
+    background-color: blue;
+     text-align: center;  
+     font-size: 50px;
+     
+}
+#footer h1{
+    padding-top: 106px;
+    padding-bottom: 55px; 
+    color:white;
+
+}
+.apple , .avocado , .orange , .mango , .banana{
+    width: 100%;
+    
+}
+.three {
+    width: 1050px;
+    height: auto;
+    max-width: 100%;
+    display:flex;
+    margin: 89px auto 0;
+    
+   
+}
+.two{
+    display: flex;
+    width: 950px;
+    margin:0 auto;
+    
+}
+body {
+   
+    font-family: monospace;
+
+}
